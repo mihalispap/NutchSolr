@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+<configuration>
+
+<property>
+  <name>db.fetch.interval.default</name>
+  <value>300</value>
+  <description>The default number of seconds between re-fetches of a page (30 days).
+  </description>
+</property>
+
+<property>
+  <name>db.update.purge.404</name>
+  <value>true</value>
+  <description>If true, updatedb will add purge records with status DB_GONE  from the CrawlDB.
+  </description>
+</property>
+
+</configuration>
