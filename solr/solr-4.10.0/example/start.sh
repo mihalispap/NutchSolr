@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -jar start.jar
+java -Xms128M -Xmx256M -jar start.jar

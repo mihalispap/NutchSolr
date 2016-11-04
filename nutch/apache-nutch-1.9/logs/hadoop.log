@@ -10896,3 +10896,785 @@ SOLRIndexWriter
 2016-11-04 11:17:08,503 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=198, fetchQueues.getQueueCount=1
 2016-11-04 11:17:09,503 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=198, fetchQueues.getQueueCount=1
 2016-11-04 11:17:09,684 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1415&country=NL (queue crawl delay=5000ms)
+2016-11-04 11:17:10,504 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=197, fetchQueues.getQueueCount=1
+2016-11-04 11:17:11,504 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=197, fetchQueues.getQueueCount=1
+2016-11-04 11:17:12,504 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=197, fetchQueues.getQueueCount=1
+2016-11-04 11:17:13,505 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=197, fetchQueues.getQueueCount=1
+2016-11-04 11:17:14,505 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=197, fetchQueues.getQueueCount=1
+2016-11-04 11:17:14,938 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=DK (queue crawl delay=5000ms)
+2016-11-04 11:17:15,506 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=196, fetchQueues.getQueueCount=1
+2016-11-04 11:17:16,506 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=196, fetchQueues.getQueueCount=1
+2016-11-04 11:17:17,506 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=196, fetchQueues.getQueueCount=1
+2016-11-04 11:17:18,507 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=196, fetchQueues.getQueueCount=1
+2016-11-04 11:17:19,507 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=196, fetchQueues.getQueueCount=1
+2016-11-04 11:17:20,441 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=16-824&country=BE (queue crawl delay=5000ms)
+2016-11-04 11:17:20,508 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=195, fetchQueues.getQueueCount=1
+2016-11-04 11:17:21,508 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=195, fetchQueues.getQueueCount=1
+2016-11-04 11:17:22,508 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=195, fetchQueues.getQueueCount=1
+2016-11-04 11:17:23,509 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=195, fetchQueues.getQueueCount=1
+2016-11-04 11:17:24,509 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=195, fetchQueues.getQueueCount=1
+2016-11-04 11:17:25,510 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=195, fetchQueues.getQueueCount=1
+2016-11-04 11:17:25,763 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1376 (queue crawl delay=5000ms)
+2016-11-04 11:17:26,510 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=194, fetchQueues.getQueueCount=1
+2016-11-04 11:17:27,510 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=194, fetchQueues.getQueueCount=1
+2016-11-04 11:17:28,511 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=194, fetchQueues.getQueueCount=1
+2016-11-04 11:17:29,511 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=194, fetchQueues.getQueueCount=1
+2016-11-04 11:17:30,512 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=194, fetchQueues.getQueueCount=1
+2016-11-04 11:17:31,071 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=CZ (queue crawl delay=5000ms)
+2016-11-04 11:17:31,512 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=193, fetchQueues.getQueueCount=1
+2016-11-04 11:17:32,512 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=193, fetchQueues.getQueueCount=1
+2016-11-04 11:17:33,513 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=193, fetchQueues.getQueueCount=1
+2016-11-04 11:17:34,513 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=193, fetchQueues.getQueueCount=1
+2016-11-04 11:17:35,514 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=193, fetchQueues.getQueueCount=1
+2016-11-04 11:17:36,431 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380&country=LV (queue crawl delay=5000ms)
+2016-11-04 11:17:36,514 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=192, fetchQueues.getQueueCount=1
+2016-11-04 11:17:37,514 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=192, fetchQueues.getQueueCount=1
+2016-11-04 11:17:38,515 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=192, fetchQueues.getQueueCount=1
+2016-11-04 11:17:39,515 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=192, fetchQueues.getQueueCount=1
+2016-11-04 11:17:40,516 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=192, fetchQueues.getQueueCount=1
+2016-11-04 11:17:41,516 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=192, fetchQueues.getQueueCount=1
+2016-11-04 11:17:41,805 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=SI (queue crawl delay=5000ms)
+2016-11-04 11:17:42,516 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=191, fetchQueues.getQueueCount=1
+2016-11-04 11:17:43,517 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=191, fetchQueues.getQueueCount=1
+2016-11-04 11:17:44,517 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=191, fetchQueues.getQueueCount=1
+2016-11-04 11:17:45,518 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=191, fetchQueues.getQueueCount=1
+2016-11-04 11:17:46,518 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=191, fetchQueues.getQueueCount=1
+2016-11-04 11:17:47,154 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1452&country=PL (queue crawl delay=5000ms)
+2016-11-04 11:17:47,519 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=190, fetchQueues.getQueueCount=1
+2016-11-04 11:17:48,519 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=190, fetchQueues.getQueueCount=1
+2016-11-04 11:17:49,519 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=190, fetchQueues.getQueueCount=1
+2016-11-04 11:17:50,520 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=190, fetchQueues.getQueueCount=1
+2016-11-04 11:17:51,520 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=190, fetchQueues.getQueueCount=1
+2016-11-04 11:17:52,521 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=190, fetchQueues.getQueueCount=1
+2016-11-04 11:17:52,593 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=BG (queue crawl delay=5000ms)
+2016-11-04 11:17:53,521 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=189, fetchQueues.getQueueCount=1
+2016-11-04 11:17:54,521 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=189, fetchQueues.getQueueCount=1
+2016-11-04 11:17:55,522 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=189, fetchQueues.getQueueCount=1
+2016-11-04 11:17:56,522 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=189, fetchQueues.getQueueCount=1
+2016-11-04 11:17:57,523 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=189, fetchQueues.getQueueCount=1
+2016-11-04 11:17:57,877 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1415&country=CH (queue crawl delay=5000ms)
+2016-11-04 11:17:58,523 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=188, fetchQueues.getQueueCount=1
+2016-11-04 11:17:59,524 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=188, fetchQueues.getQueueCount=1
+2016-11-04 11:18:00,524 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=188, fetchQueues.getQueueCount=1
+2016-11-04 11:18:01,524 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=188, fetchQueues.getQueueCount=1
+2016-11-04 11:18:02,525 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=188, fetchQueues.getQueueCount=1
+2016-11-04 11:18:03,200 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1404&country=PL (queue crawl delay=5000ms)
+2016-11-04 11:18:03,525 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=187, fetchQueues.getQueueCount=1
+2016-11-04 11:18:04,526 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=187, fetchQueues.getQueueCount=1
+2016-11-04 11:18:05,526 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=187, fetchQueues.getQueueCount=1
+2016-11-04 11:18:06,526 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=187, fetchQueues.getQueueCount=1
+2016-11-04 11:18:07,527 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=187, fetchQueues.getQueueCount=1
+2016-11-04 11:18:08,527 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=187, fetchQueues.getQueueCount=1
+2016-11-04 11:18:08,674 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1429&country=BE (queue crawl delay=5000ms)
+2016-11-04 11:18:09,528 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=186, fetchQueues.getQueueCount=1
+2016-11-04 11:18:10,528 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=186, fetchQueues.getQueueCount=1
+2016-11-04 11:18:11,528 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=186, fetchQueues.getQueueCount=1
+2016-11-04 11:18:12,529 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=186, fetchQueues.getQueueCount=1
+2016-11-04 11:18:13,529 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=186, fetchQueues.getQueueCount=1
+2016-11-04 11:18:14,009 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1440 (queue crawl delay=5000ms)
+2016-11-04 11:18:14,530 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=185, fetchQueues.getQueueCount=1
+2016-11-04 11:18:15,530 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=185, fetchQueues.getQueueCount=1
+2016-11-04 11:18:16,531 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=185, fetchQueues.getQueueCount=1
+2016-11-04 11:18:17,531 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=185, fetchQueues.getQueueCount=1
+2016-11-04 11:18:18,531 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=185, fetchQueues.getQueueCount=1
+2016-11-04 11:18:19,348 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1425&country=LV (queue crawl delay=5000ms)
+2016-11-04 11:18:19,532 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=184, fetchQueues.getQueueCount=1
+2016-11-04 11:18:20,532 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=184, fetchQueues.getQueueCount=1
+2016-11-04 11:18:21,533 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=184, fetchQueues.getQueueCount=1
+2016-11-04 11:18:22,533 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=184, fetchQueues.getQueueCount=1
+2016-11-04 11:18:23,534 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=184, fetchQueues.getQueueCount=1
+2016-11-04 11:18:24,534 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=184, fetchQueues.getQueueCount=1
+2016-11-04 11:18:24,844 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=SK (queue crawl delay=5000ms)
+2016-11-04 11:18:25,534 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=183, fetchQueues.getQueueCount=1
+2016-11-04 11:18:26,535 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=183, fetchQueues.getQueueCount=1
+2016-11-04 11:18:27,535 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=183, fetchQueues.getQueueCount=1
+2016-11-04 11:18:28,536 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=183, fetchQueues.getQueueCount=1
+2016-11-04 11:18:29,536 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=183, fetchQueues.getQueueCount=1
+2016-11-04 11:18:30,101 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=SE (queue crawl delay=5000ms)
+2016-11-04 11:18:30,536 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=182, fetchQueues.getQueueCount=1
+2016-11-04 11:18:31,537 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=182, fetchQueues.getQueueCount=1
+2016-11-04 11:18:32,537 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=182, fetchQueues.getQueueCount=1
+2016-11-04 11:18:33,538 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=182, fetchQueues.getQueueCount=1
+2016-11-04 11:18:34,538 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=182, fetchQueues.getQueueCount=1
+2016-11-04 11:18:35,354 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1404&country=ES (queue crawl delay=5000ms)
+2016-11-04 11:18:35,539 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=181, fetchQueues.getQueueCount=1
+2016-11-04 11:18:36,539 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=181, fetchQueues.getQueueCount=1
+2016-11-04 11:18:37,539 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=181, fetchQueues.getQueueCount=1
+2016-11-04 11:18:38,540 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=181, fetchQueues.getQueueCount=1
+2016-11-04 11:18:39,540 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=181, fetchQueues.getQueueCount=1
+2016-11-04 11:18:40,541 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=181, fetchQueues.getQueueCount=1
+2016-11-04 11:18:40,609 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=DK (queue crawl delay=5000ms)
+2016-11-04 11:18:41,541 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=180, fetchQueues.getQueueCount=1
+2016-11-04 11:18:42,541 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=180, fetchQueues.getQueueCount=1
+2016-11-04 11:18:43,542 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=180, fetchQueues.getQueueCount=1
+2016-11-04 11:18:44,542 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=180, fetchQueues.getQueueCount=1
+2016-11-04 11:18:45,543 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=180, fetchQueues.getQueueCount=1
+2016-11-04 11:18:45,878 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1392&country=GR (queue crawl delay=5000ms)
+2016-11-04 11:18:46,543 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=179, fetchQueues.getQueueCount=1
+2016-11-04 11:18:47,543 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=179, fetchQueues.getQueueCount=1
+2016-11-04 11:18:48,544 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=179, fetchQueues.getQueueCount=1
+2016-11-04 11:18:49,544 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=179, fetchQueues.getQueueCount=1
+2016-11-04 11:18:50,545 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=179, fetchQueues.getQueueCount=1
+2016-11-04 11:18:51,165 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1415&country=LU (queue crawl delay=5000ms)
+2016-11-04 11:18:51,545 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=178, fetchQueues.getQueueCount=1
+2016-11-04 11:18:52,545 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=178, fetchQueues.getQueueCount=1
+2016-11-04 11:18:53,546 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=178, fetchQueues.getQueueCount=1
+2016-11-04 11:18:54,546 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=178, fetchQueues.getQueueCount=1
+2016-11-04 11:18:55,547 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=178, fetchQueues.getQueueCount=1
+2016-11-04 11:18:56,547 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=178, fetchQueues.getQueueCount=1
+2016-11-04 11:18:56,637 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=HR (queue crawl delay=5000ms)
+2016-11-04 11:18:57,547 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=177, fetchQueues.getQueueCount=1
+2016-11-04 11:18:58,548 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=177, fetchQueues.getQueueCount=1
+2016-11-04 11:18:59,548 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=177, fetchQueues.getQueueCount=1
+2016-11-04 11:19:00,549 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=177, fetchQueues.getQueueCount=1
+2016-11-04 11:19:01,549 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=177, fetchQueues.getQueueCount=1
+2016-11-04 11:19:01,955 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=GR (queue crawl delay=5000ms)
+2016-11-04 11:19:02,549 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=176, fetchQueues.getQueueCount=1
+2016-11-04 11:19:03,550 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=176, fetchQueues.getQueueCount=1
+2016-11-04 11:19:04,550 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=176, fetchQueues.getQueueCount=1
+2016-11-04 11:19:05,550 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=176, fetchQueues.getQueueCount=1
+2016-11-04 11:19:06,551 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=176, fetchQueues.getQueueCount=1
+2016-11-04 11:19:07,270 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1415 (queue crawl delay=5000ms)
+2016-11-04 11:19:07,551 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=175, fetchQueues.getQueueCount=1
+2016-11-04 11:19:08,552 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=175, fetchQueues.getQueueCount=1
+2016-11-04 11:19:09,552 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=175, fetchQueues.getQueueCount=1
+2016-11-04 11:19:10,552 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=175, fetchQueues.getQueueCount=1
+2016-11-04 11:19:11,553 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=175, fetchQueues.getQueueCount=1
+2016-11-04 11:19:12,553 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=175, fetchQueues.getQueueCount=1
+2016-11-04 11:19:12,710 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1440&country=CZ (queue crawl delay=5000ms)
+2016-11-04 11:19:13,554 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=174, fetchQueues.getQueueCount=1
+2016-11-04 11:19:14,554 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=174, fetchQueues.getQueueCount=1
+2016-11-04 11:19:15,554 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=174, fetchQueues.getQueueCount=1
+2016-11-04 11:19:16,555 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=174, fetchQueues.getQueueCount=1
+2016-11-04 11:19:17,555 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=174, fetchQueues.getQueueCount=1
+2016-11-04 11:19:18,062 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=IT (queue crawl delay=5000ms)
+2016-11-04 11:19:18,556 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=173, fetchQueues.getQueueCount=1
+2016-11-04 11:19:19,556 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=173, fetchQueues.getQueueCount=1
+2016-11-04 11:19:20,557 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=173, fetchQueues.getQueueCount=1
+2016-11-04 11:19:21,557 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=173, fetchQueues.getQueueCount=1
+2016-11-04 11:19:22,557 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=173, fetchQueues.getQueueCount=1
+2016-11-04 11:19:23,413 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1468&country=IE (queue crawl delay=5000ms)
+2016-11-04 11:19:23,558 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=172, fetchQueues.getQueueCount=1
+2016-11-04 11:19:24,558 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=172, fetchQueues.getQueueCount=1
+2016-11-04 11:19:25,559 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=172, fetchQueues.getQueueCount=1
+2016-11-04 11:19:26,559 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=172, fetchQueues.getQueueCount=1
+2016-11-04 11:19:27,559 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=172, fetchQueues.getQueueCount=1
+2016-11-04 11:19:28,560 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=172, fetchQueues.getQueueCount=1
+2016-11-04 11:19:28,935 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1373&country=DE (queue crawl delay=5000ms)
+2016-11-04 11:19:29,560 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=171, fetchQueues.getQueueCount=1
+2016-11-04 11:19:30,561 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=171, fetchQueues.getQueueCount=1
+2016-11-04 11:19:31,561 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=171, fetchQueues.getQueueCount=1
+2016-11-04 11:19:32,561 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=171, fetchQueues.getQueueCount=1
+2016-11-04 11:19:33,562 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=171, fetchQueues.getQueueCount=1
+2016-11-04 11:19:34,257 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1466&country=SE (queue crawl delay=5000ms)
+2016-11-04 11:19:34,562 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=170, fetchQueues.getQueueCount=1
+2016-11-04 11:19:35,563 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=170, fetchQueues.getQueueCount=1
+2016-11-04 11:19:36,563 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=170, fetchQueues.getQueueCount=1
+2016-11-04 11:19:37,564 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=170, fetchQueues.getQueueCount=1
+2016-11-04 11:19:38,564 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=170, fetchQueues.getQueueCount=1
+2016-11-04 11:19:39,564 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=170, fetchQueues.getQueueCount=1
+2016-11-04 11:19:39,600 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1466&country=DE (queue crawl delay=5000ms)
+2016-11-04 11:19:40,565 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=169, fetchQueues.getQueueCount=1
+2016-11-04 11:19:41,565 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=169, fetchQueues.getQueueCount=1
+2016-11-04 11:19:42,566 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=169, fetchQueues.getQueueCount=1
+2016-11-04 11:19:43,566 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=169, fetchQueues.getQueueCount=1
+2016-11-04 11:19:44,567 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=169, fetchQueues.getQueueCount=1
+2016-11-04 11:19:44,906 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1415&country=CZ (queue crawl delay=5000ms)
+2016-11-04 11:19:45,567 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=168, fetchQueues.getQueueCount=1
+2016-11-04 11:19:46,567 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=168, fetchQueues.getQueueCount=1
+2016-11-04 11:19:47,568 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=168, fetchQueues.getQueueCount=1
+2016-11-04 11:19:48,568 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=168, fetchQueues.getQueueCount=1
+2016-11-04 11:19:49,569 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=168, fetchQueues.getQueueCount=1
+2016-11-04 11:19:50,349 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1443&country=GB (queue crawl delay=5000ms)
+2016-11-04 11:19:50,569 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=167, fetchQueues.getQueueCount=1
+2016-11-04 11:19:51,569 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=167, fetchQueues.getQueueCount=1
+2016-11-04 11:19:52,570 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=167, fetchQueues.getQueueCount=1
+2016-11-04 11:19:53,570 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=167, fetchQueues.getQueueCount=1
+2016-11-04 11:19:54,570 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=167, fetchQueues.getQueueCount=1
+2016-11-04 11:19:55,571 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=167, fetchQueues.getQueueCount=1
+2016-11-04 11:19:55,655 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1376&country=IT (queue crawl delay=5000ms)
+2016-11-04 11:19:56,571 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=166, fetchQueues.getQueueCount=1
+2016-11-04 11:19:57,572 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=166, fetchQueues.getQueueCount=1
+2016-11-04 11:19:58,572 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=166, fetchQueues.getQueueCount=1
+2016-11-04 11:19:59,573 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=166, fetchQueues.getQueueCount=1
+2016-11-04 11:20:00,573 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=166, fetchQueues.getQueueCount=1
+2016-11-04 11:20:01,424 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=16-824&country=NL (queue crawl delay=5000ms)
+2016-11-04 11:20:01,573 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=165, fetchQueues.getQueueCount=1
+2016-11-04 11:20:02,574 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=165, fetchQueues.getQueueCount=1
+2016-11-04 11:20:03,574 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=165, fetchQueues.getQueueCount=1
+2016-11-04 11:20:04,574 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=165, fetchQueues.getQueueCount=1
+2016-11-04 11:20:05,575 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=165, fetchQueues.getQueueCount=1
+2016-11-04 11:20:06,575 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=165, fetchQueues.getQueueCount=1
+2016-11-04 11:20:06,746 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1392&country=PT (queue crawl delay=5000ms)
+2016-11-04 11:20:07,576 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=164, fetchQueues.getQueueCount=1
+2016-11-04 11:20:08,576 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=164, fetchQueues.getQueueCount=1
+2016-11-04 11:20:09,576 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=164, fetchQueues.getQueueCount=1
+2016-11-04 11:20:10,577 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=164, fetchQueues.getQueueCount=1
+2016-11-04 11:20:11,577 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=164, fetchQueues.getQueueCount=1
+2016-11-04 11:20:12,097 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1392&country=IE (queue crawl delay=5000ms)
+2016-11-04 11:20:12,578 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=163, fetchQueues.getQueueCount=1
+2016-11-04 11:20:13,578 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=163, fetchQueues.getQueueCount=1
+2016-11-04 11:20:14,578 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=163, fetchQueues.getQueueCount=1
+2016-11-04 11:20:15,579 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=163, fetchQueues.getQueueCount=1
+2016-11-04 11:20:16,579 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=163, fetchQueues.getQueueCount=1
+2016-11-04 11:20:17,396 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=NL (queue crawl delay=5000ms)
+2016-11-04 11:20:17,580 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=162, fetchQueues.getQueueCount=1
+2016-11-04 11:20:18,580 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=162, fetchQueues.getQueueCount=1
+2016-11-04 11:20:19,581 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=162, fetchQueues.getQueueCount=1
+2016-11-04 11:20:20,581 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=162, fetchQueues.getQueueCount=1
+2016-11-04 11:20:21,581 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=162, fetchQueues.getQueueCount=1
+2016-11-04 11:20:22,582 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=162, fetchQueues.getQueueCount=1
+2016-11-04 11:20:22,720 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1416&country=DK (queue crawl delay=5000ms)
+2016-11-04 11:20:23,582 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=161, fetchQueues.getQueueCount=1
+2016-11-04 11:20:24,583 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=161, fetchQueues.getQueueCount=1
+2016-11-04 11:20:25,583 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=161, fetchQueues.getQueueCount=1
+2016-11-04 11:20:26,584 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=161, fetchQueues.getQueueCount=1
+2016-11-04 11:20:27,584 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=161, fetchQueues.getQueueCount=1
+2016-11-04 11:20:28,033 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1348&country=GB (queue crawl delay=5000ms)
+2016-11-04 11:20:28,584 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=160, fetchQueues.getQueueCount=1
+2016-11-04 11:20:29,585 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=160, fetchQueues.getQueueCount=1
+2016-11-04 11:20:30,585 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=160, fetchQueues.getQueueCount=1
+2016-11-04 11:20:31,586 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=160, fetchQueues.getQueueCount=1
+2016-11-04 11:20:32,586 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=160, fetchQueues.getQueueCount=1
+2016-11-04 11:20:33,450 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=16-824&country=BG (queue crawl delay=5000ms)
+2016-11-04 11:20:33,586 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=159, fetchQueues.getQueueCount=1
+2016-11-04 11:20:34,587 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=159, fetchQueues.getQueueCount=1
+2016-11-04 11:20:35,587 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=159, fetchQueues.getQueueCount=1
+2016-11-04 11:20:36,588 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=159, fetchQueues.getQueueCount=1
+2016-11-04 11:20:37,588 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=159, fetchQueues.getQueueCount=1
+2016-11-04 11:20:38,588 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=159, fetchQueues.getQueueCount=1
+2016-11-04 11:20:38,825 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1415&country=IT (queue crawl delay=5000ms)
+2016-11-04 11:20:39,589 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=158, fetchQueues.getQueueCount=1
+2016-11-04 11:20:40,589 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=158, fetchQueues.getQueueCount=1
+2016-11-04 11:20:41,590 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=158, fetchQueues.getQueueCount=1
+2016-11-04 11:20:42,590 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=158, fetchQueues.getQueueCount=1
+2016-11-04 11:20:43,590 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=158, fetchQueues.getQueueCount=1
+2016-11-04 11:20:44,119 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1415&country=BE (queue crawl delay=5000ms)
+2016-11-04 11:20:44,591 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=157, fetchQueues.getQueueCount=1
+2016-11-04 11:20:45,591 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=157, fetchQueues.getQueueCount=1
+2016-11-04 11:20:46,592 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=157, fetchQueues.getQueueCount=1
+2016-11-04 11:20:47,592 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=157, fetchQueues.getQueueCount=1
+2016-11-04 11:20:48,593 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=157, fetchQueues.getQueueCount=1
+2016-11-04 11:20:49,409 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1349&country=FR (queue crawl delay=5000ms)
+2016-11-04 11:20:49,593 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=156, fetchQueues.getQueueCount=1
+2016-11-04 11:20:50,593 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=156, fetchQueues.getQueueCount=1
+2016-11-04 11:20:51,594 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=156, fetchQueues.getQueueCount=1
+2016-11-04 11:20:52,594 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=156, fetchQueues.getQueueCount=1
+2016-11-04 11:20:53,595 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=156, fetchQueues.getQueueCount=1
+2016-11-04 11:20:54,595 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=156, fetchQueues.getQueueCount=1
+2016-11-04 11:20:54,671 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1481&country=DK (queue crawl delay=5000ms)
+2016-11-04 11:20:55,595 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=155, fetchQueues.getQueueCount=1
+2016-11-04 11:20:56,596 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=155, fetchQueues.getQueueCount=1
+2016-11-04 11:20:57,596 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=155, fetchQueues.getQueueCount=1
+2016-11-04 11:20:58,597 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=155, fetchQueues.getQueueCount=1
+2016-11-04 11:20:59,597 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=155, fetchQueues.getQueueCount=1
+2016-11-04 11:20:59,968 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1401&country=LU (queue crawl delay=5000ms)
+2016-11-04 11:21:00,597 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=154, fetchQueues.getQueueCount=1
+2016-11-04 11:21:01,598 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=154, fetchQueues.getQueueCount=1
+2016-11-04 11:21:02,598 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=154, fetchQueues.getQueueCount=1
+2016-11-04 11:21:03,599 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=154, fetchQueues.getQueueCount=1
+2016-11-04 11:21:04,602 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=154, fetchQueues.getQueueCount=1
+2016-11-04 11:21:05,399 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=CH (queue crawl delay=5000ms)
+2016-11-04 11:21:05,602 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=153, fetchQueues.getQueueCount=1
+2016-11-04 11:21:06,602 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=153, fetchQueues.getQueueCount=1
+2016-11-04 11:21:07,603 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=153, fetchQueues.getQueueCount=1
+2016-11-04 11:21:08,603 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=153, fetchQueues.getQueueCount=1
+2016-11-04 11:21:09,604 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=153, fetchQueues.getQueueCount=1
+2016-11-04 11:21:10,604 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=153, fetchQueues.getQueueCount=1
+2016-11-04 11:21:10,707 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=HU (queue crawl delay=5000ms)
+2016-11-04 11:21:11,605 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=152, fetchQueues.getQueueCount=1
+2016-11-04 11:21:12,605 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=152, fetchQueues.getQueueCount=1
+2016-11-04 11:21:13,605 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=152, fetchQueues.getQueueCount=1
+2016-11-04 11:21:14,606 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=152, fetchQueues.getQueueCount=1
+2016-11-04 11:21:15,607 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=152, fetchQueues.getQueueCount=1
+2016-11-04 11:21:16,129 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=MT (queue crawl delay=5000ms)
+2016-11-04 11:21:16,608 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=151, fetchQueues.getQueueCount=1
+2016-11-04 11:21:17,608 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=151, fetchQueues.getQueueCount=1
+2016-11-04 11:21:18,609 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=151, fetchQueues.getQueueCount=1
+2016-11-04 11:21:19,609 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=151, fetchQueues.getQueueCount=1
+2016-11-04 11:21:20,610 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=151, fetchQueues.getQueueCount=1
+2016-11-04 11:21:21,448 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1401 (queue crawl delay=5000ms)
+2016-11-04 11:21:21,610 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=150, fetchQueues.getQueueCount=1
+2016-11-04 11:21:22,610 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=150, fetchQueues.getQueueCount=1
+2016-11-04 11:21:23,611 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=150, fetchQueues.getQueueCount=1
+2016-11-04 11:21:24,611 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=150, fetchQueues.getQueueCount=1
+2016-11-04 11:21:25,612 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=150, fetchQueues.getQueueCount=1
+2016-11-04 11:21:26,612 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=150, fetchQueues.getQueueCount=1
+2016-11-04 11:21:26,754 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=LT (queue crawl delay=5000ms)
+2016-11-04 11:21:27,612 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=149, fetchQueues.getQueueCount=1
+2016-11-04 11:21:28,613 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=149, fetchQueues.getQueueCount=1
+2016-11-04 11:21:29,613 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=149, fetchQueues.getQueueCount=1
+2016-11-04 11:21:30,613 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=149, fetchQueues.getQueueCount=1
+2016-11-04 11:21:31,614 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=149, fetchQueues.getQueueCount=1
+2016-11-04 11:21:32,018 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1404&country=BG (queue crawl delay=5000ms)
+2016-11-04 11:21:32,614 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=148, fetchQueues.getQueueCount=1
+2016-11-04 11:21:33,615 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=148, fetchQueues.getQueueCount=1
+2016-11-04 11:21:34,615 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=148, fetchQueues.getQueueCount=1
+2016-11-04 11:21:35,615 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=148, fetchQueues.getQueueCount=1
+2016-11-04 11:21:36,616 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=148, fetchQueues.getQueueCount=1
+2016-11-04 11:21:37,460 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=LU (queue crawl delay=5000ms)
+2016-11-04 11:21:37,616 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=147, fetchQueues.getQueueCount=1
+2016-11-04 11:21:38,617 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=147, fetchQueues.getQueueCount=1
+2016-11-04 11:21:39,617 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=147, fetchQueues.getQueueCount=1
+2016-11-04 11:21:40,617 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=147, fetchQueues.getQueueCount=1
+2016-11-04 11:21:41,618 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=147, fetchQueues.getQueueCount=1
+2016-11-04 11:21:42,618 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=147, fetchQueues.getQueueCount=1
+2016-11-04 11:21:42,772 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=EE (queue crawl delay=5000ms)
+2016-11-04 11:21:43,618 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=146, fetchQueues.getQueueCount=1
+2016-11-04 11:21:44,619 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=146, fetchQueues.getQueueCount=1
+2016-11-04 11:21:45,619 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=146, fetchQueues.getQueueCount=1
+2016-11-04 11:21:46,620 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=146, fetchQueues.getQueueCount=1
+2016-11-04 11:21:47,620 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=146, fetchQueues.getQueueCount=1
+2016-11-04 11:21:48,042 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1452&country=DE (queue crawl delay=5000ms)
+2016-11-04 11:21:48,620 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=145, fetchQueues.getQueueCount=1
+2016-11-04 11:21:49,621 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=145, fetchQueues.getQueueCount=1
+2016-11-04 11:21:50,621 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=145, fetchQueues.getQueueCount=1
+2016-11-04 11:21:51,622 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=145, fetchQueues.getQueueCount=1
+2016-11-04 11:21:52,622 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=145, fetchQueues.getQueueCount=1
+2016-11-04 11:21:53,363 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120 (queue crawl delay=5000ms)
+2016-11-04 11:21:53,622 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=144, fetchQueues.getQueueCount=1
+2016-11-04 11:21:54,623 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=144, fetchQueues.getQueueCount=1
+2016-11-04 11:21:55,623 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=144, fetchQueues.getQueueCount=1
+2016-11-04 11:21:56,623 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=144, fetchQueues.getQueueCount=1
+2016-11-04 11:21:57,624 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=144, fetchQueues.getQueueCount=1
+2016-11-04 11:21:58,624 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=144, fetchQueues.getQueueCount=1
+2016-11-04 11:21:58,682 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1456&country=FI (queue crawl delay=5000ms)
+2016-11-04 11:21:59,625 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=143, fetchQueues.getQueueCount=1
+2016-11-04 11:22:00,625 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=143, fetchQueues.getQueueCount=1
+2016-11-04 11:22:01,625 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=143, fetchQueues.getQueueCount=1
+2016-11-04 11:22:02,626 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=143, fetchQueues.getQueueCount=1
+2016-11-04 11:22:03,626 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=143, fetchQueues.getQueueCount=1
+2016-11-04 11:22:04,008 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1429&country=AT (queue crawl delay=5000ms)
+2016-11-04 11:22:04,627 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=142, fetchQueues.getQueueCount=1
+2016-11-04 11:22:05,627 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=142, fetchQueues.getQueueCount=1
+2016-11-04 11:22:06,627 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=142, fetchQueues.getQueueCount=1
+2016-11-04 11:22:07,628 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=142, fetchQueues.getQueueCount=1
+2016-11-04 11:22:08,628 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=142, fetchQueues.getQueueCount=1
+2016-11-04 11:22:09,460 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=CZ (queue crawl delay=5000ms)
+2016-11-04 11:22:09,629 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=141, fetchQueues.getQueueCount=1
+2016-11-04 11:22:10,629 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=141, fetchQueues.getQueueCount=1
+2016-11-04 11:22:11,629 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=141, fetchQueues.getQueueCount=1
+2016-11-04 11:22:12,630 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=141, fetchQueues.getQueueCount=1
+2016-11-04 11:22:13,630 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=141, fetchQueues.getQueueCount=1
+2016-11-04 11:22:14,630 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=141, fetchQueues.getQueueCount=1
+2016-11-04 11:22:14,822 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1371&country=CH (queue crawl delay=5000ms)
+2016-11-04 11:22:15,631 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=140, fetchQueues.getQueueCount=1
+2016-11-04 11:22:16,631 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=140, fetchQueues.getQueueCount=1
+2016-11-04 11:22:17,632 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=140, fetchQueues.getQueueCount=1
+2016-11-04 11:22:18,632 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=140, fetchQueues.getQueueCount=1
+2016-11-04 11:22:19,632 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=140, fetchQueues.getQueueCount=1
+2016-11-04 11:22:20,157 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380&country=SK (queue crawl delay=5000ms)
+2016-11-04 11:22:20,633 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=139, fetchQueues.getQueueCount=1
+2016-11-04 11:22:21,633 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=139, fetchQueues.getQueueCount=1
+2016-11-04 11:22:22,634 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=139, fetchQueues.getQueueCount=1
+2016-11-04 11:22:23,634 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=139, fetchQueues.getQueueCount=1
+2016-11-04 11:22:24,634 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=139, fetchQueues.getQueueCount=1
+2016-11-04 11:22:25,504 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=NO (queue crawl delay=5000ms)
+2016-11-04 11:22:25,635 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=138, fetchQueues.getQueueCount=1
+2016-11-04 11:22:26,635 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=138, fetchQueues.getQueueCount=1
+2016-11-04 11:22:27,636 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=138, fetchQueues.getQueueCount=1
+2016-11-04 11:22:28,636 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=138, fetchQueues.getQueueCount=1
+2016-11-04 11:22:29,636 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=138, fetchQueues.getQueueCount=1
+2016-11-04 11:22:30,637 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=138, fetchQueues.getQueueCount=1
+2016-11-04 11:22:30,822 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380&country=DK (queue crawl delay=5000ms)
+2016-11-04 11:22:31,637 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=137, fetchQueues.getQueueCount=1
+2016-11-04 11:22:32,637 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=137, fetchQueues.getQueueCount=1
+2016-11-04 11:22:33,638 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=137, fetchQueues.getQueueCount=1
+2016-11-04 11:22:34,638 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=137, fetchQueues.getQueueCount=1
+2016-11-04 11:22:35,639 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=137, fetchQueues.getQueueCount=1
+2016-11-04 11:22:36,160 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380&country=HR (queue crawl delay=5000ms)
+2016-11-04 11:22:36,639 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=136, fetchQueues.getQueueCount=1
+2016-11-04 11:22:37,640 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=136, fetchQueues.getQueueCount=1
+2016-11-04 11:22:38,640 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=136, fetchQueues.getQueueCount=1
+2016-11-04 11:22:39,640 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=136, fetchQueues.getQueueCount=1
+2016-11-04 11:22:40,641 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=136, fetchQueues.getQueueCount=1
+2016-11-04 11:22:41,638 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1360&country=FR (queue crawl delay=5000ms)
+2016-11-04 11:22:41,641 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=135, fetchQueues.getQueueCount=1
+2016-11-04 11:22:42,642 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=135, fetchQueues.getQueueCount=1
+2016-11-04 11:22:43,642 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=135, fetchQueues.getQueueCount=1
+2016-11-04 11:22:44,642 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=135, fetchQueues.getQueueCount=1
+2016-11-04 11:22:45,643 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=135, fetchQueues.getQueueCount=1
+2016-11-04 11:22:46,643 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=135, fetchQueues.getQueueCount=1
+2016-11-04 11:22:46,919 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1371 (queue crawl delay=5000ms)
+2016-11-04 11:22:47,644 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=134, fetchQueues.getQueueCount=1
+2016-11-04 11:22:48,644 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=134, fetchQueues.getQueueCount=1
+2016-11-04 11:22:49,644 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=134, fetchQueues.getQueueCount=1
+2016-11-04 11:22:50,645 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=134, fetchQueues.getQueueCount=1
+2016-11-04 11:22:51,645 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=134, fetchQueues.getQueueCount=1
+2016-11-04 11:22:52,208 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1439&country=CH (queue crawl delay=5000ms)
+2016-11-04 11:22:52,646 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=133, fetchQueues.getQueueCount=1
+2016-11-04 11:22:53,646 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=133, fetchQueues.getQueueCount=1
+2016-11-04 11:22:54,646 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=133, fetchQueues.getQueueCount=1
+2016-11-04 11:22:55,647 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=133, fetchQueues.getQueueCount=1
+2016-11-04 11:22:56,647 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=133, fetchQueues.getQueueCount=1
+2016-11-04 11:22:57,462 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380&country=FI (queue crawl delay=5000ms)
+2016-11-04 11:22:57,648 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=132, fetchQueues.getQueueCount=1
+2016-11-04 11:22:58,648 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=132, fetchQueues.getQueueCount=1
+2016-11-04 11:22:59,648 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=132, fetchQueues.getQueueCount=1
+2016-11-04 11:23:00,649 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=132, fetchQueues.getQueueCount=1
+2016-11-04 11:23:01,649 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=132, fetchQueues.getQueueCount=1
+2016-11-04 11:23:02,650 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=132, fetchQueues.getQueueCount=1
+2016-11-04 11:23:02,739 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=HU (queue crawl delay=5000ms)
+2016-11-04 11:23:03,650 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=131, fetchQueues.getQueueCount=1
+2016-11-04 11:23:04,650 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=131, fetchQueues.getQueueCount=1
+2016-11-04 11:23:05,651 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=131, fetchQueues.getQueueCount=1
+2016-11-04 11:23:06,651 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=131, fetchQueues.getQueueCount=1
+2016-11-04 11:23:07,652 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=131, fetchQueues.getQueueCount=1
+2016-11-04 11:23:08,047 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1401&country=BE (queue crawl delay=5000ms)
+2016-11-04 11:23:08,652 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=130, fetchQueues.getQueueCount=1
+2016-11-04 11:23:09,652 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=130, fetchQueues.getQueueCount=1
+2016-11-04 11:23:10,653 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=130, fetchQueues.getQueueCount=1
+2016-11-04 11:23:11,653 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=130, fetchQueues.getQueueCount=1
+2016-11-04 11:23:12,654 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=130, fetchQueues.getQueueCount=1
+2016-11-04 11:23:13,469 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1416 (queue crawl delay=5000ms)
+2016-11-04 11:23:13,654 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=129, fetchQueues.getQueueCount=1
+2016-11-04 11:23:14,654 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=129, fetchQueues.getQueueCount=1
+2016-11-04 11:23:15,655 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=129, fetchQueues.getQueueCount=1
+2016-11-04 11:23:16,655 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=129, fetchQueues.getQueueCount=1
+2016-11-04 11:23:17,656 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=129, fetchQueues.getQueueCount=1
+2016-11-04 11:23:18,656 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=129, fetchQueues.getQueueCount=1
+2016-11-04 11:23:18,749 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1378&country=SK (queue crawl delay=5000ms)
+2016-11-04 11:23:19,657 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=128, fetchQueues.getQueueCount=1
+2016-11-04 11:23:20,657 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=128, fetchQueues.getQueueCount=1
+2016-11-04 11:23:21,657 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=128, fetchQueues.getQueueCount=1
+2016-11-04 11:23:22,658 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=128, fetchQueues.getQueueCount=1
+2016-11-04 11:23:23,658 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=128, fetchQueues.getQueueCount=1
+2016-11-04 11:23:24,003 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1425&country=FI (queue crawl delay=5000ms)
+2016-11-04 11:23:24,659 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=127, fetchQueues.getQueueCount=1
+2016-11-04 11:23:25,659 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=127, fetchQueues.getQueueCount=1
+2016-11-04 11:23:26,659 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=127, fetchQueues.getQueueCount=1
+2016-11-04 11:23:27,660 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=127, fetchQueues.getQueueCount=1
+2016-11-04 11:23:28,660 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=127, fetchQueues.getQueueCount=1
+2016-11-04 11:23:29,278 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=DE (queue crawl delay=5000ms)
+2016-11-04 11:23:29,661 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=126, fetchQueues.getQueueCount=1
+2016-11-04 11:23:30,661 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=126, fetchQueues.getQueueCount=1
+2016-11-04 11:23:31,661 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=126, fetchQueues.getQueueCount=1
+2016-11-04 11:23:32,662 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=126, fetchQueues.getQueueCount=1
+2016-11-04 11:23:33,662 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=126, fetchQueues.getQueueCount=1
+2016-11-04 11:23:34,586 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=HU (queue crawl delay=5000ms)
+2016-11-04 11:23:34,663 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=125, fetchQueues.getQueueCount=1
+2016-11-04 11:23:35,663 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=125, fetchQueues.getQueueCount=1
+2016-11-04 11:23:36,663 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=125, fetchQueues.getQueueCount=1
+2016-11-04 11:23:37,664 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=125, fetchQueues.getQueueCount=1
+2016-11-04 11:23:38,664 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=125, fetchQueues.getQueueCount=1
+2016-11-04 11:23:39,665 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=125, fetchQueues.getQueueCount=1
+2016-11-04 11:23:39,879 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1439 (queue crawl delay=5000ms)
+2016-11-04 11:23:40,665 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=124, fetchQueues.getQueueCount=1
+2016-11-04 11:23:41,665 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=124, fetchQueues.getQueueCount=1
+2016-11-04 11:23:42,666 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=124, fetchQueues.getQueueCount=1
+2016-11-04 11:23:43,666 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=124, fetchQueues.getQueueCount=1
+2016-11-04 11:23:44,667 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=124, fetchQueues.getQueueCount=1
+2016-11-04 11:23:45,359 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1120&country=BE (queue crawl delay=5000ms)
+2016-11-04 11:23:45,667 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=123, fetchQueues.getQueueCount=1
+2016-11-04 11:23:46,667 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=123, fetchQueues.getQueueCount=1
+2016-11-04 11:23:47,668 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=123, fetchQueues.getQueueCount=1
+2016-11-04 11:23:48,668 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=123, fetchQueues.getQueueCount=1
+2016-11-04 11:23:49,669 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=123, fetchQueues.getQueueCount=1
+2016-11-04 11:23:50,658 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1421&country=GB (queue crawl delay=5000ms)
+2016-11-04 11:23:50,669 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=122, fetchQueues.getQueueCount=1
+2016-11-04 11:23:51,669 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=122, fetchQueues.getQueueCount=1
+2016-11-04 11:23:52,670 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=122, fetchQueues.getQueueCount=1
+2016-11-04 11:23:53,670 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=122, fetchQueues.getQueueCount=1
+2016-11-04 11:23:54,671 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=122, fetchQueues.getQueueCount=1
+2016-11-04 11:23:55,671 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=122, fetchQueues.getQueueCount=1
+2016-11-04 11:23:55,960 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1429&country=EE (queue crawl delay=5000ms)
+2016-11-04 11:23:56,671 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=121, fetchQueues.getQueueCount=1
+2016-11-04 11:23:57,672 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=121, fetchQueues.getQueueCount=1
+2016-11-04 11:23:58,672 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=121, fetchQueues.getQueueCount=1
+2016-11-04 11:23:59,673 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=121, fetchQueues.getQueueCount=1
+2016-11-04 11:24:00,673 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=121, fetchQueues.getQueueCount=1
+2016-11-04 11:24:01,251 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=CH (queue crawl delay=5000ms)
+2016-11-04 11:24:01,673 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=120, fetchQueues.getQueueCount=1
+2016-11-04 11:24:02,674 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=120, fetchQueues.getQueueCount=1
+2016-11-04 11:24:03,674 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=120, fetchQueues.getQueueCount=1
+2016-11-04 11:24:04,674 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=120, fetchQueues.getQueueCount=1
+2016-11-04 11:24:05,675 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=120, fetchQueues.getQueueCount=1
+2016-11-04 11:24:06,599 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380&country=NL (queue crawl delay=5000ms)
+2016-11-04 11:24:06,675 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=119, fetchQueues.getQueueCount=1
+2016-11-04 11:24:07,675 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=119, fetchQueues.getQueueCount=1
+2016-11-04 11:24:08,676 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=119, fetchQueues.getQueueCount=1
+2016-11-04 11:24:09,676 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=119, fetchQueues.getQueueCount=1
+2016-11-04 11:24:10,677 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=119, fetchQueues.getQueueCount=1
+2016-11-04 11:24:11,677 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=119, fetchQueues.getQueueCount=1
+2016-11-04 11:24:11,914 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1373&country=LV (queue crawl delay=5000ms)
+2016-11-04 11:24:12,677 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=118, fetchQueues.getQueueCount=1
+2016-11-04 11:24:13,678 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=118, fetchQueues.getQueueCount=1
+2016-11-04 11:24:14,678 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=118, fetchQueues.getQueueCount=1
+2016-11-04 11:24:15,679 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=118, fetchQueues.getQueueCount=1
+2016-11-04 11:24:16,679 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=118, fetchQueues.getQueueCount=1
+2016-11-04 11:24:17,365 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1481 (queue crawl delay=5000ms)
+2016-11-04 11:24:17,679 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=117, fetchQueues.getQueueCount=1
+2016-11-04 11:24:18,680 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=117, fetchQueues.getQueueCount=1
+2016-11-04 11:24:19,680 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=117, fetchQueues.getQueueCount=1
+2016-11-04 11:24:20,681 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=117, fetchQueues.getQueueCount=1
+2016-11-04 11:24:21,681 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=117, fetchQueues.getQueueCount=1
+2016-11-04 11:24:22,681 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=117, fetchQueues.getQueueCount=1
+2016-11-04 11:24:22,718 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=LU (queue crawl delay=5000ms)
+2016-11-04 11:24:23,691 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=116, fetchQueues.getQueueCount=1
+2016-11-04 11:24:24,691 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=116, fetchQueues.getQueueCount=1
+2016-11-04 11:24:25,691 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=116, fetchQueues.getQueueCount=1
+2016-11-04 11:24:26,692 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=116, fetchQueues.getQueueCount=1
+2016-11-04 11:24:27,692 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=116, fetchQueues.getQueueCount=1
+2016-11-04 11:24:28,024 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1481&country=MT (queue crawl delay=5000ms)
+2016-11-04 11:24:28,693 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=115, fetchQueues.getQueueCount=1
+2016-11-04 11:24:29,693 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=115, fetchQueues.getQueueCount=1
+2016-11-04 11:24:30,693 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=115, fetchQueues.getQueueCount=1
+2016-11-04 11:24:31,694 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=115, fetchQueues.getQueueCount=1
+2016-11-04 11:24:32,694 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=115, fetchQueues.getQueueCount=1
+2016-11-04 11:24:33,354 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1422&country=FR (queue crawl delay=5000ms)
+2016-11-04 11:24:33,694 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=114, fetchQueues.getQueueCount=1
+2016-11-04 11:24:34,695 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=114, fetchQueues.getQueueCount=1
+2016-11-04 11:24:35,695 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=114, fetchQueues.getQueueCount=1
+2016-11-04 11:24:36,696 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=114, fetchQueues.getQueueCount=1
+2016-11-04 11:24:37,696 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=114, fetchQueues.getQueueCount=1
+2016-11-04 11:24:38,685 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=NO (queue crawl delay=5000ms)
+2016-11-04 11:24:38,696 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=113, fetchQueues.getQueueCount=1
+2016-11-04 11:24:39,697 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=113, fetchQueues.getQueueCount=1
+2016-11-04 11:24:40,697 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=113, fetchQueues.getQueueCount=1
+2016-11-04 11:24:41,697 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=113, fetchQueues.getQueueCount=1
+2016-11-04 11:24:42,698 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=113, fetchQueues.getQueueCount=1
+2016-11-04 11:24:43,698 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=113, fetchQueues.getQueueCount=1
+2016-11-04 11:24:44,031 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1425&country=NL (queue crawl delay=5000ms)
+2016-11-04 11:24:44,699 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=112, fetchQueues.getQueueCount=1
+2016-11-04 11:24:45,699 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=112, fetchQueues.getQueueCount=1
+2016-11-04 11:24:46,699 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=112, fetchQueues.getQueueCount=1
+2016-11-04 11:24:47,700 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=112, fetchQueues.getQueueCount=1
+2016-11-04 11:24:48,700 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=112, fetchQueues.getQueueCount=1
+2016-11-04 11:24:49,416 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=16-824&country=NO (queue crawl delay=5000ms)
+2016-11-04 11:24:49,701 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=111, fetchQueues.getQueueCount=1
+2016-11-04 11:24:50,701 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=111, fetchQueues.getQueueCount=1
+2016-11-04 11:24:51,701 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=111, fetchQueues.getQueueCount=1
+2016-11-04 11:24:52,702 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=111, fetchQueues.getQueueCount=1
+2016-11-04 11:24:53,702 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=111, fetchQueues.getQueueCount=1
+2016-11-04 11:24:54,702 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=111, fetchQueues.getQueueCount=1
+2016-11-04 11:24:54,795 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=PT (queue crawl delay=5000ms)
+2016-11-04 11:24:55,703 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=110, fetchQueues.getQueueCount=1
+2016-11-04 11:24:56,703 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=110, fetchQueues.getQueueCount=1
+2016-11-04 11:24:57,704 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=110, fetchQueues.getQueueCount=1
+2016-11-04 11:24:58,704 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=110, fetchQueues.getQueueCount=1
+2016-11-04 11:24:59,704 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=110, fetchQueues.getQueueCount=1
+2016-11-04 11:25:00,070 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1415&country=AT (queue crawl delay=5000ms)
+2016-11-04 11:25:00,705 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=109, fetchQueues.getQueueCount=1
+2016-11-04 11:25:01,705 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=109, fetchQueues.getQueueCount=1
+2016-11-04 11:25:02,705 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=109, fetchQueues.getQueueCount=1
+2016-11-04 11:25:03,706 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=109, fetchQueues.getQueueCount=1
+2016-11-04 11:25:04,706 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=109, fetchQueues.getQueueCount=1
+2016-11-04 11:25:05,414 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=IE (queue crawl delay=5000ms)
+2016-11-04 11:25:05,707 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=108, fetchQueues.getQueueCount=1
+2016-11-04 11:25:06,707 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=108, fetchQueues.getQueueCount=1
+2016-11-04 11:25:07,707 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=108, fetchQueues.getQueueCount=1
+2016-11-04 11:25:08,708 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=108, fetchQueues.getQueueCount=1
+2016-11-04 11:25:09,708 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=108, fetchQueues.getQueueCount=1
+2016-11-04 11:25:10,709 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=108, fetchQueues.getQueueCount=1
+2016-11-04 11:25:10,728 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1391&country=DE (queue crawl delay=5000ms)
+2016-11-04 11:25:11,709 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=107, fetchQueues.getQueueCount=1
+2016-11-04 11:25:12,709 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=107, fetchQueues.getQueueCount=1
+2016-11-04 11:25:13,710 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=107, fetchQueues.getQueueCount=1
+2016-11-04 11:25:14,710 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=107, fetchQueues.getQueueCount=1
+2016-11-04 11:25:15,711 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=107, fetchQueues.getQueueCount=1
+2016-11-04 11:25:16,075 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1456 (queue crawl delay=5000ms)
+2016-11-04 11:25:16,711 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=106, fetchQueues.getQueueCount=1
+2016-11-04 11:25:17,711 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=106, fetchQueues.getQueueCount=1
+2016-11-04 11:25:18,712 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=106, fetchQueues.getQueueCount=1
+2016-11-04 11:25:19,712 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=106, fetchQueues.getQueueCount=1
+2016-11-04 11:25:20,712 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=106, fetchQueues.getQueueCount=1
+2016-11-04 11:25:21,431 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1488&country=HR (queue crawl delay=5000ms)
+2016-11-04 11:25:21,713 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=105, fetchQueues.getQueueCount=1
+2016-11-04 11:25:22,713 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=105, fetchQueues.getQueueCount=1
+2016-11-04 11:25:23,714 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=105, fetchQueues.getQueueCount=1
+2016-11-04 11:25:24,714 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=105, fetchQueues.getQueueCount=1
+2016-11-04 11:25:25,714 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=105, fetchQueues.getQueueCount=1
+2016-11-04 11:25:26,715 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=105, fetchQueues.getQueueCount=1
+2016-11-04 11:25:26,772 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1408 (queue crawl delay=5000ms)
+2016-11-04 11:25:27,715 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=104, fetchQueues.getQueueCount=1
+2016-11-04 11:25:28,716 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=104, fetchQueues.getQueueCount=1
+2016-11-04 11:25:29,716 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=104, fetchQueues.getQueueCount=1
+2016-11-04 11:25:30,716 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=104, fetchQueues.getQueueCount=1
+2016-11-04 11:25:31,717 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=104, fetchQueues.getQueueCount=1
+2016-11-04 11:25:32,134 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=FR (queue crawl delay=5000ms)
+2016-11-04 11:25:32,717 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=103, fetchQueues.getQueueCount=1
+2016-11-04 11:25:33,717 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=103, fetchQueues.getQueueCount=1
+2016-11-04 11:25:34,718 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=103, fetchQueues.getQueueCount=1
+2016-11-04 11:25:35,718 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=103, fetchQueues.getQueueCount=1
+2016-11-04 11:25:36,719 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=103, fetchQueues.getQueueCount=1
+2016-11-04 11:25:37,441 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1416&country=HU (queue crawl delay=5000ms)
+2016-11-04 11:25:37,719 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=102, fetchQueues.getQueueCount=1
+2016-11-04 11:25:38,719 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=102, fetchQueues.getQueueCount=1
+2016-11-04 11:25:39,720 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=102, fetchQueues.getQueueCount=1
+2016-11-04 11:25:40,720 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=102, fetchQueues.getQueueCount=1
+2016-11-04 11:25:41,721 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=102, fetchQueues.getQueueCount=1
+2016-11-04 11:25:42,721 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=102, fetchQueues.getQueueCount=1
+2016-11-04 11:25:42,769 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380&country=CH (queue crawl delay=5000ms)
+2016-11-04 11:25:43,721 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=101, fetchQueues.getQueueCount=1
+2016-11-04 11:25:44,722 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=101, fetchQueues.getQueueCount=1
+2016-11-04 11:25:45,722 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=101, fetchQueues.getQueueCount=1
+2016-11-04 11:25:46,723 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=101, fetchQueues.getQueueCount=1
+2016-11-04 11:25:47,723 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=101, fetchQueues.getQueueCount=1
+2016-11-04 11:25:48,173 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=rss&country=RO (queue crawl delay=5000ms)
+2016-11-04 11:25:48,723 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=100, fetchQueues.getQueueCount=1
+2016-11-04 11:25:49,724 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=100, fetchQueues.getQueueCount=1
+2016-11-04 11:25:50,724 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=100, fetchQueues.getQueueCount=1
+2016-11-04 11:25:51,725 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=100, fetchQueues.getQueueCount=1
+2016-11-04 11:25:52,725 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=100, fetchQueues.getQueueCount=1
+2016-11-04 11:25:53,523 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=SE (queue crawl delay=5000ms)
+2016-11-04 11:25:53,725 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=99, fetchQueues.getQueueCount=1
+2016-11-04 11:25:54,726 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=99, fetchQueues.getQueueCount=1
+2016-11-04 11:25:55,726 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=99, fetchQueues.getQueueCount=1
+2016-11-04 11:25:56,727 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=99, fetchQueues.getQueueCount=1
+2016-11-04 11:25:57,727 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=99, fetchQueues.getQueueCount=1
+2016-11-04 11:25:58,727 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=99, fetchQueues.getQueueCount=1
+2016-11-04 11:25:58,821 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380&country=LU (queue crawl delay=5000ms)
+2016-11-04 11:25:59,728 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=98, fetchQueues.getQueueCount=1
+2016-11-04 11:26:00,728 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=98, fetchQueues.getQueueCount=1
+2016-11-04 11:26:01,729 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=98, fetchQueues.getQueueCount=1
+2016-11-04 11:26:02,729 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=98, fetchQueues.getQueueCount=1
+2016-11-04 11:26:03,729 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=98, fetchQueues.getQueueCount=1
+2016-11-04 11:26:04,175 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=getListByCountry&country=LU (queue crawl delay=5000ms)
+2016-11-04 11:26:04,730 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=97, fetchQueues.getQueueCount=1
+2016-11-04 11:26:05,730 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=97, fetchQueues.getQueueCount=1
+2016-11-04 11:26:06,731 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=97, fetchQueues.getQueueCount=1
+2016-11-04 11:26:07,731 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=97, fetchQueues.getQueueCount=1
+2016-11-04 11:26:08,731 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=97, fetchQueues.getQueueCount=1
+2016-11-04 11:26:09,448 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1380 (queue crawl delay=5000ms)
+2016-11-04 11:26:09,732 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=96, fetchQueues.getQueueCount=1
+2016-11-04 11:26:10,732 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=96, fetchQueues.getQueueCount=1
+2016-11-04 11:26:11,732 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=96, fetchQueues.getQueueCount=1
+2016-11-04 11:26:12,733 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=96, fetchQueues.getQueueCount=1
+2016-11-04 11:26:13,733 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=96, fetchQueues.getQueueCount=1
+2016-11-04 11:26:14,721 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1392&country=ES (queue crawl delay=5000ms)
+2016-11-04 11:26:14,734 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=95, fetchQueues.getQueueCount=1
+2016-11-04 11:26:15,734 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=95, fetchQueues.getQueueCount=1
+2016-11-04 11:26:16,734 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=95, fetchQueues.getQueueCount=1
+2016-11-04 11:26:17,735 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=95, fetchQueues.getQueueCount=1
+2016-11-04 11:26:18,735 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=95, fetchQueues.getQueueCount=1
+2016-11-04 11:26:19,736 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=95, fetchQueues.getQueueCount=1
+2016-11-04 11:26:20,013 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1425&country=LU (queue crawl delay=5000ms)
+2016-11-04 11:26:20,736 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=94, fetchQueues.getQueueCount=1
+2016-11-04 11:26:21,736 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=94, fetchQueues.getQueueCount=1
+2016-11-04 11:26:22,737 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=94, fetchQueues.getQueueCount=1
+2016-11-04 11:26:23,737 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=94, fetchQueues.getQueueCount=1
+2016-11-04 11:26:24,737 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=94, fetchQueues.getQueueCount=1
+2016-11-04 11:26:25,468 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1316&country=SK (queue crawl delay=5000ms)
+2016-11-04 11:26:25,738 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=93, fetchQueues.getQueueCount=1
+2016-11-04 11:26:26,738 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=93, fetchQueues.getQueueCount=1
+2016-11-04 11:26:27,739 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=93, fetchQueues.getQueueCount=1
+2016-11-04 11:26:28,739 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=93, fetchQueues.getQueueCount=1
+2016-11-04 11:26:29,739 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=93, fetchQueues.getQueueCount=1
+2016-11-04 11:26:30,725 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1392&country=FR (queue crawl delay=5000ms)
+2016-11-04 11:26:30,740 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=92, fetchQueues.getQueueCount=1
+2016-11-04 11:26:31,740 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=92, fetchQueues.getQueueCount=1
+2016-11-04 11:26:32,741 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=92, fetchQueues.getQueueCount=1
+2016-11-04 11:26:33,741 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=92, fetchQueues.getQueueCount=1
+2016-11-04 11:26:34,741 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=92, fetchQueues.getQueueCount=1
+2016-11-04 11:26:35,742 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=92, fetchQueues.getQueueCount=1
+2016-11-04 11:26:36,066 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=2016.1425 (queue crawl delay=5000ms)
+2016-11-04 11:26:36,742 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=91, fetchQueues.getQueueCount=1
+2016-11-04 11:26:37,743 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=91, fetchQueues.getQueueCount=1
+2016-11-04 11:26:38,743 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=91, fetchQueues.getQueueCount=1
+2016-11-04 11:26:39,743 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=91, fetchQueues.getQueueCount=1
+2016-11-04 11:37:06,337 INFO  crawl.Injector - Injector: starting at 2016-11-04 11:37:06
+2016-11-04 11:37:06,356 INFO  crawl.Injector - Injector: crawlDb: crawl/crawldb
+2016-11-04 11:37:06,356 INFO  crawl.Injector - Injector: urlDir: urls
+2016-11-04 11:37:06,357 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2016-11-04 11:37:06,782 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2016-11-04 11:37:06,837 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2016-11-04 11:37:07,572 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2016-11-04 11:37:08,230 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
+2016-11-04 11:37:08,230 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
+2016-11-04 11:37:08,230 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
+2016-11-04 11:37:10,254 INFO  crawl.Injector - Injector: overwrite: false
+2016-11-04 11:37:10,259 INFO  crawl.Injector - Injector: update: false
+2016-11-04 11:37:11,349 INFO  crawl.Injector - Injector: URLs merged: 1
+2016-11-04 11:37:11,386 INFO  crawl.Injector - Injector: Total new urls injected: 0
+2016-11-04 11:37:11,386 INFO  crawl.Injector - Injector: finished at 2016-11-04 11:37:11, elapsed: 00:00:05
+2016-11-04 11:37:12,321 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2016-11-04 11:37:12,323 INFO  crawl.Generator - Generator: starting at 2016-11-04 11:37:12
+2016-11-04 11:37:12,323 INFO  crawl.Generator - Generator: Selecting best-scoring urls due for fetch.
+2016-11-04 11:37:12,323 INFO  crawl.Generator - Generator: filtering: false
+2016-11-04 11:37:12,323 INFO  crawl.Generator - Generator: normalizing: true
+2016-11-04 11:37:12,323 INFO  crawl.Generator - Generator: topN: 50000
+2016-11-04 11:37:12,965 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2016-11-04 11:37:12,967 INFO  crawl.AbstractFetchSchedule - defaultInterval=300
+2016-11-04 11:37:12,967 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2016-11-04 11:37:12,982 INFO  regex.RegexURLNormalizer - can't find rules for scope 'partition', using default
+2016-11-04 11:37:14,372 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2016-11-04 11:37:14,372 INFO  crawl.AbstractFetchSchedule - defaultInterval=300
+2016-11-04 11:37:14,372 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2016-11-04 11:37:14,376 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
+2016-11-04 11:37:14,697 INFO  crawl.Generator - Generator: Partitioning selected urls for politeness.
+2016-11-04 11:37:15,698 INFO  crawl.Generator - Generator: segment: crawl/segments/20161104113715
+2016-11-04 11:37:15,887 INFO  regex.RegexURLNormalizer - can't find rules for scope 'partition', using default
+2016-11-04 11:37:16,793 INFO  crawl.Generator - Generator: finished at 2016-11-04 11:37:16, elapsed: 00:00:04
+2016-11-04 11:37:17,430 INFO  fetcher.Fetcher - Fetcher: starting at 2016-11-04 11:37:17
+2016-11-04 11:37:17,430 INFO  fetcher.Fetcher - Fetcher: segment: crawl/segments/20161104113715
+2016-11-04 11:37:17,430 INFO  fetcher.Fetcher - Fetcher Timelimit set for : 1478270237430
+2016-11-04 11:37:17,706 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2016-11-04 11:37:18,189 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,189 INFO  fetcher.Fetcher - Fetcher: threads: 50
+2016-11-04 11:37:18,189 INFO  fetcher.Fetcher - Fetcher: time-out divisor: 2
+2016-11-04 11:37:18,428 INFO  fetcher.Fetcher - QueueFeeder finished: total 319 records + hit by time limit :0
+2016-11-04 11:37:18,452 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,462 INFO  fetcher.Fetcher - fetching https://webgate.ec.europa.eu/rasff-window/consumers/?event=notificationDetail&NOTIF_REFERENCE=16-824&country=GR (queue crawl delay=5000ms)
+2016-11-04 11:37:18,462 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,467 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,475 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,478 INFO  http.Http - http.proxy.host = null
+2016-11-04 11:37:18,478 INFO  http.Http - http.proxy.port = 8080
+2016-11-04 11:37:18,478 INFO  http.Http - http.timeout = 10000
+2016-11-04 11:37:18,478 INFO  http.Http - http.content.limit = 65536
+2016-11-04 11:37:18,478 INFO  http.Http - http.agent = AKAgent/Nutch-1.9
+2016-11-04 11:37:18,478 INFO  http.Http - http.accept.language = en-us,en-gb,en;q=0.7,*;q=0.3
+2016-11-04 11:37:18,478 INFO  http.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2016-11-04 11:37:18,480 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,487 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,491 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,496 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,501 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,506 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,511 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,519 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,526 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,531 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,532 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,532 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,533 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,533 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,534 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,534 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,535 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,535 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,536 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,536 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,539 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,539 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,540 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,540 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,543 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,544 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,544 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,547 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,548 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,548 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,549 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,549 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,549 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,550 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,550 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,551 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,551 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,552 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,552 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,556 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,556 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,557 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,557 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,557 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,558 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,560 INFO  fetcher.Fetcher - Using queue mode : byHost
+2016-11-04 11:37:18,560 INFO  fetcher.Fetcher - Fetcher: throughput threshold: -1
+2016-11-04 11:37:18,560 INFO  fetcher.Fetcher - Fetcher: throughput threshold retries: 5
+2016-11-04 11:37:18,560 INFO  fetcher.Fetcher - fetcher.maxNum.threads can't be < than 50 : using 50 instead
+2016-11-04 11:37:19,563 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=49, fetchQueues.totalSize=318, fetchQueues.getQueueCount=1
+2016-11-04 11:37:20,563 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=318, fetchQueues.getQueueCount=1
+2016-11-04 11:37:21,564 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=318, fetchQueues.getQueueCount=1
+2016-11-04 11:37:22,564 INFO  fetcher.Fetcher - -activeThreads=50, spinWaiting=50, fetchQueues.totalSize=318, fetchQueues.getQueueCount=1
